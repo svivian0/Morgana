@@ -11,3 +11,6 @@
 
 ## Contribuições
 #### Contribuições são bem-vindas! Por favor, abra uma issue ou envie um pull request para sugerir melhorias ou corrigir bugs.
+
+## Licença
+#### Morgana possui uma modificação da licença MIT (conferir em LICENSE.txt)
