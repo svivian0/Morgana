@@ -1,8 +1,0 @@
-python -m venv .venv
-dir .venv\Scripts\
-pandas 
-scikit-learn 
-streamlit 
-matplotlib
-ipykernel
-pip install pandas scikit-learn streamlit matplotlib ipykernel
